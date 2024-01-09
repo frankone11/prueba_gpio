@@ -1,5 +1,3 @@
-# Hello World Example
+# Prueba GPIO
 
-Starts a FreeRTOS task to print "Hello World"
-
-See the README.md file in the upper level 'examples' directory for more information about examples.
+Starts a Prueba_GPIO task to blink LED.
